@@ -16,5 +16,5 @@
 - NumPy, Pandas, ScikitLearn, Tensorflow, Keras 📚
 <br>
 
-<h1 align="center">Certification:
+<h2 align="center">Certification:
 
