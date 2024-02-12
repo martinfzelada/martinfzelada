@@ -3,6 +3,7 @@
 <img src="https://www.nextibs.com/wp-content/uploads/2021/12/seguridad-informatica-1024x439.jpeg">
 
 ## About my skills:
+<div align="left">
 - Microsoft SQL Server
 - Microsoft PowerBI
 - Python
