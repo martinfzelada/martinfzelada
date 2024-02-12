@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Welcome to my GitHub 👋
 <img src="https://www.nextibs.com/wp-content/uploads/2021/12/seguridad-informatica-1024x439.jpeg">
+<h3 align="center">My profile is oriented to the field corporate, I'm used to working with data (First Data Analytics and data currently Science), to be able to handle large volumes and thus comply with the requirements that a company may have.
 
 ## About my skills:
 <div align="left">
