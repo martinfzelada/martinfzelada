@@ -14,5 +14,6 @@
     <div align="left">
 - NumPy, Pandas, ScikitLearn, Tensorflow, Keras 📚
 
+<div align="center">
 ## Certification:
 - CoderHouse <a href="https://www.coderhouse.com/certificados/62f40d0901f1060024693bb2">Data Analyst</a>
