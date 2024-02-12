@@ -5,6 +5,7 @@
 ## About my skills:
 <div align="left">
 - Microsoft SQL Server
+<div align="left">
 - Microsoft PowerBI
 - Python
 - NumPy, Pandas, ScikitLearn, Tensorflow, Keras
