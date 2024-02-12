@@ -1,4 +1,5 @@
-### Welcome to my GitHub 👋
+<div align="center">
+<h1 align="center">Welcome to my GitHub 👋
 
 <!--
 **martinfzelada/martinfzelada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
