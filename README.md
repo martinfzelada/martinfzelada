@@ -4,13 +4,13 @@
 
 ## About my skills:
 <div align="left">
--Data Overall
+- Data Overall 📝
   <div align="left">
-- Microsoft SQL Server
+- Microsoft SQL Server 💻
 <div align="left">
-- Microsoft PowerBI
+- Microsoft PowerBI 💻
   <div align="left">
-- Python
+- Python 🐍
     <div align="left">
-- NumPy, Pandas, ScikitLearn, Tensorflow, Keras
+- NumPy, Pandas, ScikitLearn, Tensorflow, Keras 📚
 <br>
