@@ -9,6 +9,8 @@
   <div align="left">
 - Microsoft SQL Server 💻
 <div align="left">
+- Microsoft Office 💻
+<div align="left">
 - Microsoft PowerBI 💻
   <div align="left">
 - Python 🐍
