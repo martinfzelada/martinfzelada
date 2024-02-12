@@ -4,6 +4,8 @@
 
 ## About my skills:
 <div align="left">
+-Data Overall
+  <div align="left">
 - Microsoft SQL Server
 <div align="left">
 - Microsoft PowerBI
