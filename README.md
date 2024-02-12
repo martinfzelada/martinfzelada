@@ -7,6 +7,8 @@
 - Microsoft SQL Server
 <div align="left">
 - Microsoft PowerBI
+  <div align="left">
 - Python
+    <div align="left">
 - NumPy, Pandas, ScikitLearn, Tensorflow, Keras
 <br>
