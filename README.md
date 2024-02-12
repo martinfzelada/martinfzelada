@@ -14,7 +14,7 @@
 - Python 🐍
     <div align="left">
 - NumPy, Pandas, ScikitLearn, Tensorflow, Keras 📚
-<br>
+<div>
 
 ## Certification:
 <h2 align="center">
