@@ -17,4 +17,5 @@
 <br>
 
 <h2 align="center">Certification:
+  <div align="left">
 - CoderHouse <a href="https://www.coderhouse.com/certificados/62f40d0901f1060024693bb2">Data Analyst</a>
