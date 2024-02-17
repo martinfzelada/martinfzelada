@@ -23,4 +23,4 @@
 <div align="left">
 - CoderHouse <a href="https://www.coderhouse.com/certificados/644792b6657cc00002ec2365">Data Science</a> 🧪
 <div align="left">
-- EF SET <a href="https://cert.efset.org/zUgkiA">Ingles</a> 📝
+- EF SET <a href="https://cert.efset.org/zUgkiA">English</a> 📝
